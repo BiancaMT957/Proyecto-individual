@@ -75,11 +75,24 @@ terraform apply
 # Ejemplo de ejecución de cliente_a/send_message.sh
 cd cliente_a
 chmod +x send_message.sh
-./send_message.sh
+
+bash send_message.sh "hola que tal"
+
+##desde la raiz del proyecto
+
+cp cliente_a/message_a.txt mediator/tmp_message.txt
+
+## dentro de mediator
+cd mediator
+
+./mediator_forward.sh
+
 
 # Ejemplo de ejecución de cliente_b/receive_message.sh
 cd cliente_b
+
 chmod +x receive_message.sh
+
 ./receive_message.sh
 
 ## Para el test
