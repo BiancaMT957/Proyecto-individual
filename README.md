@@ -40,7 +40,7 @@ pip install -r requirements
 
 ## Ejecución
 ```
-## 🛠 Cómo clonar y ejecutar este proyecto
+##  Cómo clonar y ejecutar este proyecto
 
 ```bash
 git clone https://github.com/BiancaMT957/mi_proyecto_individual.git
