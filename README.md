@@ -43,7 +43,7 @@ pip install -r requirements
 ## 🛠 Cómo clonar y ejecutar este proyecto
 
 ```bash
-git clone https://github.com/mi_usuario/mi_proyecto_individual.git
+git clone https://github.com/BiancaMT957/mi_proyecto_individual.git
 cd mi_proyecto_individual
 
 # Si hay scripts Python:
