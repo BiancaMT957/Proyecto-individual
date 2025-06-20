@@ -64,7 +64,7 @@ python3 adapter_validate.py
 chmod +x adapter_parse.sh
 ./adapter_parse.sh
 
-# Ejemplo de uso con Terraform
+# Ejemplo de uso con Terraform del adapter/main.tf
 # Primero genera el .tfvars  con  ./adapter_parse.sh, luego se ejecuta esto:
 # Luego ejecuta Terraform
 terraform init
