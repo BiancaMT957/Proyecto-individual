@@ -11,7 +11,7 @@ Contribuí a la creación de el módulo adapter haciendo sus implementaciones en
 
 ### Herramientas necesarias:
 ```
-$ 
+ 
 # terraform
 $ sudo apt update
 $ sudo apt install terraform
