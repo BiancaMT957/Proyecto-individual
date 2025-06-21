@@ -11,11 +11,13 @@ Contribuí a la creación de el módulo adapter haciendo sus implementaciones en
 
 ### Herramientas necesarias:
 ```
-$ cd ~
-# shellcheck
-$ sudo apt install shellcheck
-# tflint
-$ curl -s https://raw.githubusercontent.com/terraform-linters/tflint/master/install_linux.sh | bash
+$ 
+# terraform
+$ sudo apt update
+$ sudo apt install terraform
+# python
+$ sudo apt update
+$ sudo apt install python3 python3-pip -y
 # jq
 $ sudo apt install jq
 ```
@@ -30,12 +32,6 @@ python3 -m venv .venv
 ```
  source venv/bin/activate
  ```
-
-Instalar requirements:
-
-```
-pip install -r requirements
-```
 
 
 ## Ejecución
