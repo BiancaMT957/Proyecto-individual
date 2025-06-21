@@ -6,7 +6,7 @@
 
 ### Rol: 
 
-Contribuí a la creación de el módulo adapter haciendo sus implementaciones en `terraform`, `Python` y `bash` asi tambien me encargue de crear los archivos `Bash` de envio de mensaje y recibimiento de mensaje que estan dentro de las carpetas `cliente_a`  y `cliente_b.
+Contribuí a la creación de el módulo adapter haciendo sus implementaciones en `terraform`, `Python` y `bash` asi tambien me encargue de crear los archivos `Bash` de envio de mensaje y recibimiento de mensaje que estan dentro de las carpetas `cliente_a`  y `cliente_b. 
 
 
 ### Herramientas necesarias:
